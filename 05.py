@@ -9,4 +9,4 @@ prova = float(input("Digite a nota da prova: "))*50/100
 
 media = (lista+projeto+prova)/1
 
-print(f"A media será {media:.1f}")
+print(f"A media será {media}")
